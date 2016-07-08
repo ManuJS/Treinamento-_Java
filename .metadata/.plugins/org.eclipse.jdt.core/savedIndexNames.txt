@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\Emanuelle Menali\workspace\.metadata\.plugins\org.eclipse.jdt.core
+4168708010.index
+2501536376.index
+1221744027.index
+4219279280.index
+2458082210.index
+1698842745.index
